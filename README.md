@@ -1,17 +1,33 @@
-<p align="center">
-  <img src="screenshots/login.png" alt="Login Page" width="350" style="margin:10px;"/>
-  <img src="screenshots/registerPage.png" alt="Register Page" width="350" style="margin:10px;"/>
-  <img src="screenshots/HomePage.png" alt="Home Page" width="350" style="margin:10px;"/>
-  <img src="screenshots/adminPage.png" alt="Admin Panel" width="350" style="margin:10px;"/>
-  <img src="screenshots/seatSelection.png" alt="Seat Selection" width="350" style="margin:10px;"/>
-  <img src="screenshots/PaymentsPortal.png" alt="Payments Portal" width="350" style="margin:10px;"/>
-</p>
+
 
 # 🎟️ Theatre Booking System
 
-The Theatre Booking System is a robust, desktop-based Java application that enables users to book movie tickets, manage shows, and perform administrative tasks. Designed for educational and real-world use, it demonstrates the complete Software Development Life Cycle (SDLC) from requirements to deployment.
+---
+
+## 🖼️ Application Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/registerPage.png)
+
+### Home Page
+![Home Page](screenshots/Homepage.png)
+
+### Admin Panel
+![Admin Panel](screenshots/adminPage.png)
+
+### Seat Selection
+![Seat Selection](screenshots/seatSelection.png)
+
+### Payments Portal
+![Payments Portal](screenshots/PaymentsPortal.png)
 
 ---
+
+The Theatre Booking System is a robust, desktop-based Java application that enables users to book movie tickets, manage shows, and perform administrative tasks. Designed for educational and real-world use, it demonstrates the complete Software Development Life Cycle (SDLC) from requirements to deployment.
+
 
 ## 📌 Features (In-Depth)
 
@@ -138,29 +154,7 @@ signin (1) ──────< (M) seats_booked (M) >────── (1) show
 | Book (Button)    | `book`       | Button to confirm seat selection         |
 | Pay (Button)     | `pay`        | Button to simulate payment               |
 
----
 
-## 🖼️ Application Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Register Page
-![Register Page](screenshots/registerPage.png)
-
-### Home Page
-![Home Page](screenshots/HomePage.png)
-
-### Admin Panel
-![Admin Panel](screenshots/adminPage.png)
-
-### Seat Selection
-![Seat Selection](screenshots/seatSelection.png)
-
-### Payments Portal
-![Payments Portal](screenshots/PaymentsPortal.png)
-
----
 
 ## 🔄 Example User Flows
 
