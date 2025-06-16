@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="../screenshots/login.png" alt="Login Page" width="350" style="margin:10px;"/>
-  <img src="../screenshots/registerPage.png" alt="Register Page" width="350" style="margin:10px;"/>
-  <img src="../screenshots/HomePage.png" alt="Home Page" width="350" style="margin:10px;"/>
-  <img src="../screenshots/adminPage.png" alt="Admin Panel" width="350" style="margin:10px;"/>
-  <img src="../screenshots/seatSelection.png" alt="Seat Selection" width="350" style="margin:10px;"/>
-  <img src="../screenshots/PaymentsPortal.png" alt="Payments Portal" width="350" style="margin:10px;"/>
+  <img src="screenshots/login.png" alt="Login Page" width="350" style="margin:10px;"/>
+  <img src="screenshots/registerPage.png" alt="Register Page" width="350" style="margin:10px;"/>
+  <img src="screenshots/HomePage.png" alt="Home Page" width="350" style="margin:10px;"/>
+  <img src="screenshots/adminPage.png" alt="Admin Panel" width="350" style="margin:10px;"/>
+  <img src="screenshots/seatSelection.png" alt="Seat Selection" width="350" style="margin:10px;"/>
+  <img src="screenshots/PaymentsPortal.png" alt="Payments Portal" width="350" style="margin:10px;"/>
 </p>
 
 # 🎟️ Theatre Booking System
